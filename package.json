@@ -1,0 +1,19 @@
+{
+  "name": "@yanhuim/gplayer.cc",
+  "version": "1.0.0",
+  "description": "-h",
+  "main": "console.log(\"Hello,World!\")",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanhuim/gplayer.cc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanhuim/gplayer.cc/issues"
+  },
+  "homepage": "https://github.com/yanhuim/gplayer.cc#readme"
+}
