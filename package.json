@@ -16,4 +16,7 @@
     "url": "https://github.com/yanhuim/gplayer.cc/issues"
   },
   "homepage": "https://github.com/yanhuim/gplayer.cc#readme"
+  "publishConfig": {
+   "@yanhuim:registry": "https://npm.pkg.github.com"
+ }
 }
